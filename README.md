@@ -4,7 +4,7 @@
 
 ## About
 
-Face recognition might be an utopic case for searching in millions. However, Spotify has to handle this issue. They recover the playlist recommendation everyday. The company has 70M users, 4M unique songs and 40 features. This means that they have apply O (70M x 4M x 40) = O(12 peta operations = 10 to the power of 15). This is really challenging!
+Spotify create playlist recommendation everyday.The company has 70M users, 4M unique songs and 40 features. This means that they have apply O (70M x 4M x 40) = O(12 peta operations = 10 to the power of 15). This is really challenging!
 
 Herein, spotify engineers implemented approximate nearest neighbor approach and published as an open source package: [annoy](https://github.com/spotify/annoy). Annoy comes with a huge speed but it does not guarantee to find the nearest one. It just approximates. It reduces the time complexity to O(log n).
 
