@@ -212,7 +212,7 @@ it. From there you can explore the API and also create test requests.
 Use the `model/predict` endpoint to load a signed 16-bit PCM wav audio file (you can use the `car-horn.wav` file located
 in the `samples` folder) and get embeddings from the API.
 
-![Swagger Doc Screenshot](docs/swagger-screenshot.png)
+![Swagger Doc Screenshot](swagger-screenshot.png)
 
 You can also test it on the command line, for example:
 
