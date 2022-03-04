@@ -1,0 +1,9 @@
+
+*.DS_Store
+**/audioset_v1_embeddings/**
+music_set.json
+*.ann
+*.csv
+*LICENSE
+*.ipynb_checkpoints
+*audioset_v1_embeddings
