@@ -1,4 +1,4 @@
-# Spotify Annoy Recommender
+# Spotify Music Recommender
 
 ![spotify.jpeg](spotify.jpeg)
 
